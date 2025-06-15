@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pydantic
+motor               # Async MongoDB driver
+google-api-python-client
+yt_dlp              # For YouTube audio/video extraction
